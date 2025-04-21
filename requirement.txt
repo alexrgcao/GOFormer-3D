@@ -1,0 +1,9 @@
+torch
+numpy
+tqdm
+biopython
+obonet
+accelerate
+scikit-learn
+Transformers
+cafaeval
